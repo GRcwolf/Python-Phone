@@ -5,8 +5,6 @@
 #  in conjunction with Tcl version 8.6
 #    May 14, 2019 12:18:11 PM CEST  platform: Linux
 
-import sys
-
 try:
     import Tkinter as tk
     from tkinter import *
