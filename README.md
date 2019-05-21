@@ -11,3 +11,8 @@ You can install this python module under Ubuntu by typing the following command:
 ```bash
 sudo apt-get install python3-tk
 ```
+
+This module should also be compatible with python to. To install tkinker in python 2 under Ubuntu, type the following command:
+```bash
+sudo apt-get install python-tk
+```
