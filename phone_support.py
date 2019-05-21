@@ -7,7 +7,7 @@
 
 try:
     import Tkinter as tk
-    from tkinter import *
+    from Tkinter import *
 except ImportError:
     import tkinter as tk
     from tkinter import *
